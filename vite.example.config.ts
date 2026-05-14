@@ -12,7 +12,7 @@ export default defineConfig({
     },
   },
   plugins: [react()],
-  // base: '/react-datepicker/',
+  base: '/react-datepicker/',
   resolve: {
     alias: {
       '@': path.resolve(__dirname, 'src'),

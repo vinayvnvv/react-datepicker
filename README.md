@@ -23,6 +23,8 @@ A lightweight, accessible, and fully customizable React date picker component. M
 npm install @punaro/react-datepicker
 ```
 
+[**Live Demo & Playground →**](https://vinayvnvv.github.io/react-datepicker/)
+
 ## Usage
 
 ```tsx
